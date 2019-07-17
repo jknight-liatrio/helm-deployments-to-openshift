@@ -1,0 +1,3 @@
+[submodule "sample-app-api"]
+	path = sample-app-api
+	url = git@github.com:jknight-liatrio/sample-app-api.git
